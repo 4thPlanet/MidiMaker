@@ -1,0 +1,8 @@
+{
+	"Module" : "MidiMaker",
+	"Description" : "Creates MIDI songs based off of MATH",
+	"Core" : 0,
+	"Filename" : "MidiMaker.php",
+	"Class" : "midimaker",
+	"Requires" : ["Users"]
+}
